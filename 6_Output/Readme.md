@@ -2,8 +2,8 @@
 # OUTPUT
 
 ## 1. Button pressed once for two seconds
-* Car is on ignition mode that means car turned on.
-![first](https://user-images.githubusercontent.com/101174057/167471782-b2eb9fe8-f66f-4361-b528-7dc7e34a580c.png)
+![on](https://user-images.githubusercontent.com/101030179/168251121-8df7fd82-7ebb-4e77-9e31-d89c19f239c7.png)
+
 
 ## 2. Button  pressed once again for two seconds
 * Car is on ACC mode that means car turned off.
