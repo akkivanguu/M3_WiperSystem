@@ -15,8 +15,11 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 | 5_Report | Documentation of the whole Project |
 | 6_Output | Output of the Project |
  
- ##Codiga Badges
+ ## Codiga Badges
  
 ![Quality](https://api.codiga.io/project/33350/score/svg)
 
-  ![Quality](https://api.codiga.io/project/33350/status/svg)
+  ![Quality](https://api.codiga.io/project/33350/status/svg) 
+  
+  ## Codacy
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/25cf0013a76a4f6380b7c4e97df98b33)](https://www.codacy.com/gh/akkivanguu/M3_WiperSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akkivanguu/M3_WiperSystem&amp;utm_campaign=Badge_Grade)
