@@ -1,9 +1,3 @@
-/*
- * MyStm32f407xx_gpio_driver.h
- *
- *  Created on: Aug 17, 2020
- *      Author: 40010750
- */
 
 #ifndef INC_MYSTM32F407XX_GPIO_DRIVER_H_
 #define INC_MYSTM32F407XX_GPIO_DRIVER_H_
