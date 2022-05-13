@@ -14,3 +14,9 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 | 4_TestCases | Documents with test plans and procedures |
 | 5_Report | Documentation of the whole Project |
 | 6_Output | Output of the Project |
+ 
+ ##Codiga Badges
+ 
+![Quality](https://api.codiga.io/project/33350/score/svg)
+
+  ![Quality](https://api.codiga.io/project/33350/status/svg)
